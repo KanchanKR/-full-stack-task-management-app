@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const API = axios.create({
-  baseURL: "http://localhost:8080/api/",
+  baseURL: "https://full-stack-task-management-app-f4pa.onrender.com/api/",
 });
 
 //auth
